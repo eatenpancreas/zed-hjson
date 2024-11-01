@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Pascal d'Achard contact.pascaldachard@gmail.com"]
 description = "HJSON language support for Zed"
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/eatenpancreas/zed-hjson"
 
 [grammars.hjson]
 repository = "https://github.com/winston0410/tree-sitter-hjson"
